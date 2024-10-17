@@ -1,0 +1,9 @@
+
+Oslo, den 10. februar 2000
+Jan Petersen
+Høyre - verdens første parti på WAP?
+Høyre har nå lansert sin WAP-tjeneste. Den gjør det mulig å nå ut med et enkelt politisk budskap til velgere og tillitsvalgte, selv om de ikke sitter ved en PC med internett. Forrester Research har beregnet antallet WAP-brukere til å nå 150.000 dette året. Allerede neste år ventes dette tallet å komme opp i rundt 750.000. - For Høyre er det klart interessant å være tilstede på denne arenaen, sier Jan Petersen.
+Høyres WAP-tjeneste gjør det mulig for folk på farten å bli oppdatert på de siste politiske nyheter fra Høyre. Tjenesten er et supplement til tilbudet på internett. I tillegg til kortfattede nyheter, tilbys en personkatalog med epostadresse og telefonnummer til stortingsrepresentanter, tillitsvalgte og ansatte i Høyre. Du kan også sende meldinger til alle i personkatalogen, til partiet som sådan og til partileder Jan Petersen.
+- For Høyre er det et mål å ta i bruk nye muligheter og ligge i først i rekken når det gjelder å dra nytte av den rivende utviklingen innen IKT. Vi har til nå ikke klart å finne noe annet politisk parti i verden med en egen WAP-tjeneste. Vi ser derfor ikke bort fra at Høyre er verdens første politiske parti som tar WAP i bruk, uttaler Petersen.
+Høyres WAP-tjeneste er nyttepreget og kompakt, og således godt tilpasset WAP-teknologien. Vi tar sikte på å utvide tilbudet etterhvert som interessen for denne typen tjenester øker.
+Høyres WAP-tjeneste har adressen http://wap.hoyre.no/.

@@ -1,0 +1,9 @@
+
+Oslo, 12. juli 2002
+Victor D. Norman
+Økt konkurranse om programvare i offentlig forvaltning
+For å fremme bruken av åpen kildekode i offentlig forvaltning har arbeids- og administrasjonsminister Victor D. Norman besluttet å ikke tegne ny Select 5.0-avtale med Microsoft Norge gjennom Forvaltningsnettsamarbeidet.
+Gjennom Forvaltningsnettsamarbeidet har alle statlige, fylkeskommunale og kommunale etater fram til 30.11.2002 en Select 5.0-avtale med Microsoft Norge. Avtalen gir de offentlige etatene muligheten til å handle Microsoft programvare til rabatterte priser.
+I statlig forvaltning er bruken av Microsoft programvare svært utbredt, og for enkelte produktområder er det en tilnærmet monopolsituasjon med markedsandeler opp mot 95%.
+- Bruken av åpen kildekode, bl.a. Linux, vil kunne fremme konkurransen og redusere en uønsket segmentering i deler av IKT-markedet. For å bidra til å gjøre programvare basert på åpen kildekode til et reelt alternativ for offentlige etater, vil det derfor ikke bli inngått noen ny Select 5.0-avtale med Microsoft Norge gjennom Forvaltningsnettsamarbeidet, sier statsråd Norman.
+I IKT-strategien for offentlig sektor som skal framlegges til høsten, vil en komme med tiltak som ytterligere vil bidra til å øke bruken av åpen kildekode i offentlige etater.

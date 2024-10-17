@@ -1,0 +1,8 @@
+
+Dato: 27. mai 1999
+FREMSKRITTSPARTIETS
+STORTINGSGRUPPE
+Fra stortingsrepresentant Ulf Erik Knudsen (FrP)
+Datatrøbbel ikke bare med år 2000
+Allerede 9. september i år kan datamaskiner verden over få store problemer. Datoen skrives nemlig 9.9.1999, og alle nitallene kan forveksles med bestemte sletteprosedyrer for datamaskinprogrammer. Også datoen 29. februar 2000 kan skape problemer, fordi mange dataprogrammer ikke er programmert til å takle skuddårsdager i årstall som slutter med to nuller.
+Fremskrittspartiets Ulf Erik Knudsen tar saken opp med næringsminister Sponheim. Han regner med at regjeringen har foretatt vurderinger av problemets størrelse slik at statlige EDB-anlegg er sikret mot kollaps som følge av disse brysomme datoene.
