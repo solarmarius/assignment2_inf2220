@@ -5,10 +5,10 @@ Handle logic for processing LLM requests.
 import time
 
 from langchain.chains import RetrievalQA
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
-from langchain.vectorstores import Chroma
-from langchain.llms import GPT4All, LlamaCpp, HuggingFacePipeline
+from langchain_community.vectorstores import Chroma
+from langchain_community.llms import GPT4All, LlamaCpp, HuggingFacePipeline
 from torch import cuda as torch_cuda
 
 from utils.constants import CHROMA_SETTINGS, PERSIST_DIRECTORY

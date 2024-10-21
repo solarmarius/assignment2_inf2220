@@ -6,8 +6,8 @@ from multiprocessing import Pool
 from tqdm import tqdm
 from langchain.schema import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
 
 from utils.constants import LOADER_MAPPING, PERSIST_DIRECTORY, CHROMA_SETTINGS
 

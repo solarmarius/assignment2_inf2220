@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from chromadb.config import Settings
-from langchain.document_loaders import (
+from langchain_community.document_loaders import (
     CSVLoader,
     UnstructuredWordDocumentLoader,
     EverNoteLoader,

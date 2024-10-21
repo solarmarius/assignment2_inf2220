@@ -1,5 +1,5 @@
 from typing import List
-from langchain.document_loaders import UnstructuredEmailLoader
+from langchain_community.document_loaders import UnstructuredEmailLoader
 from langchain.schema import Document
 
 
